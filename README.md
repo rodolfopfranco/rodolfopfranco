@@ -11,7 +11,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/rodolfopfranco/rodolfopfranco/blob/main/icons/css3.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/rodolfopfranco/rodolfopfranco/blob/main/icons/javascript.svg">
 </div>
-<div style="display: inline_block" align="right"><br>
+<div style="display: inline_block" align="right"><br> 
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/rodolfopfranco/rodolfopfranco/blob/main/icons/mysql.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/rodolfopfranco/rodolfopfranco/blob/main/icons/postgresql.svg">
 </div>
